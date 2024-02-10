@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Sainan ZHANG"
   avatar           : "images/img0228.png"
-  bio              : #"Lorem ipsum College"
+  bio              : # "Lorem ipsum College"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
