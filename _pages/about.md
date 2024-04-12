@@ -12,6 +12,9 @@ Sainan ZHANG is currently a Research Associate in the Department of Applied Math
 Publication
 ------
 1, Shaoyan Guo, Huifu Xu, Sainan Zhang, Utility Preference Robust Optimization with Moment-Type Information Structure, Operations Research, https://doi.org/10.1287/opre.2023.2464, 2023.
+
 2, Sainan Zhang, Shaoyan Guo, Liwei Zhang, Hongwei Zhang. On Distributionally Robust Optimization Problems with k-th Order Stochastic Dominance Constraints Induced by Full Random Quadratic Recourse. Journal of Mathematical Analysis and Applications, 493(2), 124564, 2021.
+
 3, Sainan Zhang, Shaoyan Guo, Liwei Zhang, Hongwei Zhang. Quantitative Stability of Two Stage Distributionally Robust Risk Optimization Problem with Full Random Linear Semi-Definite Recourse. Journal of Mathematical Analysis and Applications, 485(2), 123812, 2020.
+
 4, Sainan Zhang, Shaoyan Guo, Hongwei Zhang, Liwei Zhang. Quantitative Stability of Full Random Two Stage Problems with Quadratic Recourse. Optimization, 68(8):1551-1576, 2019.
