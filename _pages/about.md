@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Sainan ZHANG is currently a Research Associate in the Department of Applied Mathematics of the Hong Kong Polytechnic University (PolyU). She received her PhD. and M.S. degrees from Dalian University of Technology, China, her Bachelor's degree from Henan University, China. Previously she worked as a Research Assistant at the Chinese University of Hong Kong. Her research interests include Stochastic Programming, Distributional Robust Optimization, and Preference Robust Optimization.
+Sainan ZHANG is currently a Research Associate in the Department of Applied Mathematics of the Hong Kong Polytechnic University (PolyU). She received her PhD. and M.S. degrees from Dalian University of Technology, China, her Bachelor's degree from Henan University, China. Previously she worked as a Research Assistant at the Chinese University of Hong Kong. Her research interests include Stochastic Programming, Distributionally Robust Optimization, and Preference Robust Optimization.
 
 Publication
 ------
