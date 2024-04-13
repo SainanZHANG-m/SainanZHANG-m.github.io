@@ -18,3 +18,7 @@ Publication
 3, Sainan Zhang, Shaoyan Guo, Liwei Zhang, Hongwei Zhang. Quantitative Stability of Two Stage Distributionally Robust Risk Optimization Problem with Full Random Linear Semi-Definite Recourse. Journal of Mathematical Analysis and Applications, 485(2), 123812, 2020.
 
 4, Sainan Zhang, Shaoyan Guo, Hongwei Zhang, Liwei Zhang. Quantitative Stability of Full Random Two Stage Problems with Quadratic Recourse. Optimization, 68(8):1551-1576, 2019.
+
+Contact me
+------
+Email: snzhang.m@gmail.com
