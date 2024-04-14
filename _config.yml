@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Sainan ZHANG"
-  pronouns         : "Dr."  
-  bio              : ""
+  pronouns         : ""  
+  bio              : #""
   location         : "Hong Kong"
   employer         : "Polyu"
   uri              : # URL
