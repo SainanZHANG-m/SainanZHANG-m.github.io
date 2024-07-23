@@ -11,7 +11,7 @@ Sainan ZHANG received her PhD. and M.S. degrees from Dalian University of Techno
 
 Publication
 ------
-1, Jian Hu, Dali Zhang, Huifu Xu and Sainan Zhang,  Distributionally Preference Robust Optimization in Multi-Attribute Decision Making.  To appear in __Mathematical Programming__.
+1, Jian Hu, Dali Zhang, Huifu Xu and Sainan Zhang,  Distributionally Preference Robust Optimization in Multi-Attribute Decision Making, __Mathematical Programming__, https://doi.org/10.1007/s10107-024-02114-y, 2024.
 
 2, Shaoyan Guo, Huifu Xu, Sainan Zhang, Utility Preference Robust Optimization with Moment-Type Information Structure, __Operations Research__, https://doi.org/10.1287/opre.2023.2464, 2023.
 
@@ -25,4 +25,4 @@ Contact me
 ------
 Email: snzhang.m@gmail.com
 
-_Updated on June 1, 2024_
+_Updated on June 23, 2024_
