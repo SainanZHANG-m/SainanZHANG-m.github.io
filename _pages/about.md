@@ -25,4 +25,4 @@ Contact me
 ------
 Email: snzhang.m@gmail.com
 
-_Updated on June 23, 2024_
+_Updated on July 23, 2024_
