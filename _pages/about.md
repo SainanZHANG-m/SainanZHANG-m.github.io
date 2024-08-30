@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Sainan ZHANG received her PhD. and M.S. degrees from Dalian University of Technology, China, her Bachelor's degree from Henan University, China. Previously she worked as a Research Associate in the Department of Applied Mathematics of the Hong Kong Polytechnic University (PolyU) in April 2024 and as a Research Assistant at the Chinese University of Hong Kong from March 2022 to March 2024. Her research interests include Stochastic Programming, Distributionally Robust Optimization, and Preference Robust Optimization.
+Sainan ZHANG is a Postdoctoral Associate at George Washington University. She received her PhD. and M.S. degrees from Dalian University of Technology, China, and her Bachelor's degree from Henan University, China. Previously she worked as a Research Associate in the Department of Applied Mathematics of the Hong Kong Polytechnic University (PolyU) in April 2024 and as a Research Assistant at the Chinese University of Hong Kong from March 2022 to March 2024. Her research interests include Stochastic Programming, Distributionally Robust Optimization, and Preference Robust Optimization.
 
 Publication
 ------
@@ -23,6 +23,6 @@ Publication
 
 Contact me
 ------
-Email: snzhang.m@gmail.com
+Email: snzhang.m@gmail.com, sainan.zhang@gwu.edu
 
-_Updated on July 23, 2024_
+_Updated on August 30, 2024_
