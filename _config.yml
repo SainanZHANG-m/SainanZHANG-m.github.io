@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Hong Kong"
+locale                   : "U.S"
 title                    : "Sainan ZHANG"
 title_separator          : "-"
 name                     : &name "Sainan ZHANG"
@@ -25,8 +25,8 @@ author:
   name             : "Sainan ZHANG"
   pronouns         : ""  
   bio              : #""
-  location         : "Hong Kong"
-  employer         : "Polyu"
+  location         : "U.S"
+  employer         : "GWU"
   uri              : # URL
   email            : "snzhang.m@gmail.com" 
 
