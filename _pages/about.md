@@ -21,8 +21,13 @@ Publication
 
 5, Sainan Zhang, Shaoyan Guo, Hongwei Zhang, Liwei Zhang. Quantitative Stability of Full Random Two Stage Problems with Quadratic Recourse. __Optimization__, 68(8):1551-1576, 2019.
 
+Reviewer of Journals
+-------
+1, Mathematical Programming
+2, Journal of Optimization Theory and Applications
+
 Contact me
 ------
 Email: snzhang.m@gmail.com, sainan.zhang@gwu.edu
 
-_Updated on September 7, 2024_
+_Updated on October 20, 2024_
