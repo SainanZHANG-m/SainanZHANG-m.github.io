@@ -11,7 +11,7 @@ Sainan ZHANG is a Postdoctoral Associate at George Washington University. She re
 
 Publication
 ------
-1, Qiong Wu, Wei Wang, Sainan Zhang, and Huifu Xu. Bi-Attribute Utility Preference Robust Optimization: A Continuous Piecewise Linear Approximation Approach. __European Journal of Operational Research__(Accepted), 2024.
+1, Qiong Wu, Wei Wang, Sainan Zhang, and Huifu Xu. Bi-Attribute Utility Preference Robust Optimization: A Continuous Piecewise Linear Approximation Approach. __European Journal of Operational Research__, https://doi.org/10.1016/j.ejor.2024.11.001, 2024.
 
 2, Jian Hu, Dali Zhang, Huifu Xu and Sainan Zhang,  Distributionally Preference Robust Optimization in Multi-Attribute Decision Making, __Mathematical Programming__, https://doi.org/10.1007/s10107-024-02114-y, 2024.
 
