@@ -31,9 +31,9 @@ Reviewer of Journals
 
 Seminar Presentations
 -------
-1. Utility Preference Robust Optimization with Moment-Type Information Structure, Department of Mathematics, GWU.
+1. Utility Preference Robust Optimization with Moment-Type Information Structure, Department of Mathematics, GWU, November 2024.
 
-2. Preference Robust Optimization When Information on Utility is Incomplete, Department of Decision Sciences, GWU.
+2. Preference Robust Optimization When Information on Utility is Incomplete, Department of Decision Sciences, GWU, February 2025.
 
 
 Contact me
