@@ -32,10 +32,11 @@ Reviewer of Journals
 Seminar Presentations
 -------
 1, Utility Preference Robust Optimization with Moment-Type Information Structure, Department of Mathematics, GWU.
+2, Preference Robust Optimization When Information on Utility is Incomplete, Department of Decision Sciences, GWU.
 
 
 Contact me
 ------
 Email: snzhang.m@gmail.com, sainan.zhang@gwu.edu
 
-_Updated on Novemver 09, 2024_
+_Updated on February 14, 2025_
