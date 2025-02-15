@@ -9,7 +9,7 @@ redirect_from:
 
 Sainan ZHANG is a Postdoctoral Associate at George Washington University. She received her PhD. degree from Dalian University of Technology, China, and a Bachelor's degree from Henan University. Previously she worked as a Research Associate in the Department of Applied Mathematics of the Hong Kong Polytechnic University (PolyU) in April 2024 and as a Research Assistant at the Chinese University of Hong Kong from March 2022 to March 2024. Her research interests include Stochastic Programming, Distributionally Robust Optimization, and Preference Robust Optimization.
 
-Publication
+Publications
 ------
 1. Qiong Wu, Wei Wang, Sainan Zhang, and Huifu Xu. Bi-Attribute Utility Preference Robust Optimization: A Continuous Piecewise Linear Approximation Approach. __European Journal of Operational Research__, https://doi.org/10.1016/j.ejor.2024.11.001, 2024.
 
