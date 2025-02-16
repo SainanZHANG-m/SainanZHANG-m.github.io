@@ -23,8 +23,9 @@ Publications
 
 6. Sainan Zhang, Shaoyan Guo, Hongwei Zhang, Liwei Zhang. Quantitative Stability of Full Random Two Stage Problems with Quadratic Recourse. __Optimization__, 68(8):1551-1576, 2019.
 
-7. Sainan Zhang, Erick Delage, and Huifu Xu. Adaptive Preference Elicitation in Preference Robust
-CPT-Based Shortfall. _under review_, 2022.
+7. Sainan Zhang, Hailin Sun, Huifu Xu. Statistical Robustness of Kernel Learning Estimator with Respect to Data Perturbation. _under review_, 2024.
+
+8. Sainan Zhang, Erick Delage, and Huifu Xu. Adaptive Preference Elicitation in Preference Robust CPT-Based Shortfall. _under review_, 2022.
 
 Reviewer of Journals
 -------
