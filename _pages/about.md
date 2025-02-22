@@ -41,6 +41,10 @@ Seminar Presentations
 
 2. Preference Robust Optimization When Information on Utility is Incomplete, Department of Decision Sciences, GWU, February 2025.
 
+Awards
+-------
+The National Scholarship, 2018.11
+The National Scholarship, 2012.11
 
 Contact me
 ------
