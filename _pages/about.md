@@ -25,9 +25,12 @@ Publications
 
 Working Papers
 -------
-1. Sainan Zhang, Huifu Xu, Hailin Sun. Statistical Robustness of Kernel Learning Estimator with Respect to Data Perturbation. _under review_, 2024.
+1. “Wildfire-Driven Distribution System Operation: New Chance-Constrained Model with
+Decision-Dependent Probabilities”， with Miguel Lejeune, Payman Dehghanian, 2025.
 
-2. Sainan Zhang, Erick Delage, and Huifu Xu. Adaptive Preference Elicitation in Preference Robust CPT-Based Shortfall. _under review_, 2022.
+2. Sainan Zhang, Huifu Xu, Hailin Sun. Statistical Robustness of Kernel Learning Estimator with Respect to Data Perturbation. _under review_, 2024.
+
+3. Sainan Zhang, Erick Delage, and Huifu Xu. Adaptive Preference Elicitation in Preference Robust CPT-Based Shortfall. _under review_, 2022.
 
 Reviewer of Journals
 -------
