@@ -43,6 +43,9 @@ Seminar Presentations
 1. Utility Preference Robust Optimization with Moment-Type Information Structure, Department of Mathematics, GWU, November 2024.
 
 2. Preference Robust Optimization When Information on Utility is Incomplete, Department of Decision Sciences, GWU, February 2025.
+ 
+3. Wildfire-Driven Distribution System Operation: New Chance-Constrained Model with
+Decision-Dependent Probabilities, BAAICB Conference, March 2025.
 
 Awards
 -------
@@ -54,4 +57,4 @@ Contact me
 ------
 Email: snzhang.m@gmail.com, sainan.zhang@gwu.edu
 
-_Updated on February 14, 2025_
+_Updated on March 24, 2025_
