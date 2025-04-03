@@ -49,9 +49,14 @@ Decision-Dependent Probabilities, BAAICB Conference, March 2025.
 
 Awards
 -------
-The National Scholarship, 2018.11
+1. Excellent Graduate in Liaoning Province, 2019
+   
+2. Excellent Graduate in Dalian University of Technology, 2019
 
-The National Scholarship, 2012.11
+3. The National Scholarship, 2018.11
+
+4. The National Scholarship, 2012.11
+
 
 Contact me
 ------
