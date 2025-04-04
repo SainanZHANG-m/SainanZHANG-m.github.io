@@ -47,6 +47,9 @@ Seminar Presentations
 3. Wildfire-Driven Distribution System Operation: New Chance-Constrained Model with
 Decision-Dependent Probabilities, BAAICB Conference, March 2025.
 
+4. New Chance-Constrained Model with Decision-Dependent Probabilities with Application in
+Power System, Department of Systems Engineering and Operations Research, GMU, April 2025.
+
 Awards
 -------
 1. Excellent Graduate in Liaoning Province, 2019
