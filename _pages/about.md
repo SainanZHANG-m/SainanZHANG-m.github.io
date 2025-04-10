@@ -26,7 +26,7 @@ Publications
 Working Papers
 -------
 1. “Wildfire-Driven Distribution System Operation: New Chance-Constrained Model with
-Decision-Dependent Probabilities”， with Miguel Lejeune, Payman Dehghanian, 2025.
+Decision-Dependent Probabilities”, with Miguel Lejeune, Payman Dehghanian, 2025.
 
 2. Sainan Zhang, Shaoyan Guo, Melvyn Sim, Huifu Xu. Modified Polyhedral Method for Elicitation of Shape-Free Utility and Conservatism Reduction in Robust Optimization. _under review_, 2025.
 
