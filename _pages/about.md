@@ -52,6 +52,8 @@ Decision-Dependent Probabilities, BAAICB Conference, March 2025.
 4. New Chance-Constrained Model with Decision-Dependent Probabilities with Application in
 Power System, Department of Systems Engineering and Operations Research, GMU, April 2025.
 
+5. Application of Chance-Constrained Optimization with Decision-Dependent Probabilities to Power Distribution Systems, SIAM DMV Conference on Applied Mathematics, April 2025.
+
 Awards
 -------
 1. Excellent Graduate in Liaoning Province, 2019
@@ -67,4 +69,4 @@ Contact me
 ------
 Email: snzhang.m@gmail.com, sainan.zhang@gwu.edu
 
-_Updated on April 4, 2025_
+_Updated on April 28, 2025_
