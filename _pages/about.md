@@ -9,7 +9,7 @@ redirect_from:
 
 Sainan ZHANG is a Postdoctoral Associate at George Washington University. She received her PhD. degree from Dalian University of Technology, China. Previously she worked as a Research Assistant at the Chinese University of Hong Kong from March 2022 to March 2024, and as a Lecturer at Dongbei University of Finance and Economics from November 2019 to July 2021. Her research interests include Stochastic Programming, Distributionally Robust Optimization, Preference Robust Optimization, and Power System Operations.
 
-Publications
+Selected Publications
 ------
 1. Jian Hu, Dali Zhang, Huifu Xu and Sainan Zhang, Distributional utility preference robust optimization models in multi-attribute decision making, __Mathematical Programming__, 212: 519–565, 2025.
   
