@@ -37,17 +37,17 @@ Working Papers
 
 Seminar Presentations
 -------
-1. Utility Preference Robust Optimization with Moment-Type Information Structure, Department of Mathematics, HKBU, February 2024.
+1. Application of Chance-Constrained Optimization with Decision-Dependent Probabilities to Power Distribution Systems, SIAM DMV Conference on Applied Mathematics, April 2025.
 
-2. Utility Preference Robust Optimization with Moment-Type Information Structure, Department of Mathematics, GWU, November 2024.
+2. New Chance-Constrained Model with Decision-Dependent Probabilities with Application in Power System, Department of Systems Engineering and Operations Research, GMU, April 2025.
 
-3. Preference Robust Optimization When Information on Utility is Incomplete, Department of Decision Sciences, GWU, February 2025.
+3. Wildfire-Driven Distribution System Operation: New Chance-Constrained Model with Decision-Dependent Probabilities, BAAICB Conference, March 2025.
  
-4. Wildfire-Driven Distribution System Operation: New Chance-Constrained Model with Decision-Dependent Probabilities, BAAICB Conference, March 2025.
+4. Preference Robust Optimization When Information on Utility is Incomplete, Department of Decision Sciences, GWU, February 2025.
 
-5. New Chance-Constrained Model with Decision-Dependent Probabilities with Application in Power System, Department of Systems Engineering and Operations Research, GMU, April 2025.
+5. Utility Preference Robust Optimization with Moment-Type Information Structure, Department of Mathematics, GWU, November 2024.
 
-6. Application of Chance-Constrained Optimization with Decision-Dependent Probabilities to Power Distribution Systems, SIAM DMV Conference on Applied Mathematics, April 2025.
+6. Utility Preference Robust Optimization with Moment-Type Information Structure, Department of Mathematics, HKBU, February 2024.
 
 Reviewer of Journals
 -------
