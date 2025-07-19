@@ -64,8 +64,10 @@ Awards
 2. Excellent Graduate in Dalian University of Technology, 2019
 
 3. The National Scholarship, 2018.11
+  
+4. Excellent Graduate Student in Dalian University of Technology (China), 2017
 
-4. The National Scholarship, 2012.11
+5. The National Scholarship, 2012.11
 
 
 Contact me
