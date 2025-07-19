@@ -11,9 +11,9 @@ Sainan ZHANG is a Postdoctoral Associate at George Washington University. She re
 
 Publications
 ------
-1. Qiong Wu, Wei Wang, Sainan Zhang, and Huifu Xu. Bi-Attribute Utility Preference Robust Optimization: A Continuous Piecewise Linear Approximation Approach. __European Journal of Operational Research__, 323(1):170-191, 2025.
-
-2. Jian Hu, Dali Zhang, Huifu Xu and Sainan Zhang, Distributional utility preference robust optimization models in multi-attribute decision making, __Mathematical Programming__, https://doi.org/10.1007/s10107-024-02114-y, 2024.
+1. Jian Hu, Dali Zhang, Huifu Xu and Sainan Zhang, Distributional utility preference robust optimization models in multi-attribute decision making, __Mathematical Programming__, 212: 519–565, 2025.
+  
+2. Qiong Wu, Wei Wang, Sainan Zhang, and Huifu Xu. Bi-Attribute Utility Preference Robust Optimization: A Continuous Piecewise Linear Approximation Approach. __European Journal of Operational Research__, 323(1):170-191, 2025.
 
 3. Shaoyan Guo, Huifu Xu, Sainan Zhang, Utility Preference Robust Optimization with Moment-Type Information Structure, __Operations Research__, 72(5):2241-2261, 2024.
 
@@ -23,36 +23,39 @@ Publications
 
 6. Sainan Zhang, Shaoyan Guo, Hongwei Zhang, Liwei Zhang. Quantitative Stability of Full Random Two Stage Problems with Quadratic Recourse. __Optimization__, 68(8):1551-1576, 2019.
 
+Submitted Papers
+-------
+1. Sainan Zhang, Shaoyan Guo, Melvyn Sim, Huifu Xu. Modified Polyhedral Method for Elicitation of Shape-Free Utility and Conservatism Reduction in Robust Optimization. _under review_, 2025.
+
+2. Sainan Zhang, Huifu Xu, Hailin Sun. Statistical Robustness of Kernel Learning Estimator with Respect to Data Perturbation. _Revised and Resubmitted to Mathematics of Operations Research_, 2024.
+
+3. Sainan Zhang, Erick Delage, and Huifu Xu. Adaptive Preference Elicitation in Preference Robust CPT-Based Shortfall. _Revised and Resubmitted to Operations Research_, 2023.
+
 Working Papers
 -------
-1. “Wildfire-Driven Distribution System Operation: New Chance-Constrained Model with
-Decision-Dependent Probabilities”, with Miguel Lejeune, Payman Dehghanian, 2025.
-
-2. Sainan Zhang, Shaoyan Guo, Melvyn Sim, Huifu Xu. Modified Polyhedral Method for Elicitation of Shape-Free Utility and Conservatism Reduction in Robust Optimization. _under review_, 2025.
-
-3. Sainan Zhang, Huifu Xu, Hailin Sun. Statistical Robustness of Kernel Learning Estimator with Respect to Data Perturbation. _under review_, 2024.
-
-4. Sainan Zhang, Erick Delage, and Huifu Xu. Adaptive Preference Elicitation in Preference Robust CPT-Based Shortfall. _under review_, 2022.
+1. “Power Distribution System Operations under Wildfire Risks: Chance-Constrained Model with Decision-Dependent Probabilities”, with Miguel Lejeune, Payman Dehghanian, 2025.
 
 Reviewer of Journals
 -------
 1. Mathematical Programming
 
 2. Journal of Optimization Theory and Applications
+  
+3. INFORMS Journal on Computing
 
 Seminar Presentations
 -------
-1. Utility Preference Robust Optimization with Moment-Type Information Structure, Department of Mathematics, GWU, November 2024.
+1. Utility Preference Robust Optimization with Moment-Type Information Structure, Department of Mathematics, HKBU, February 2024.
 
-2. Preference Robust Optimization When Information on Utility is Incomplete, Department of Decision Sciences, GWU, February 2025.
+2. Utility Preference Robust Optimization with Moment-Type Information Structure, Department of Mathematics, GWU, November 2024.
+
+3. Preference Robust Optimization When Information on Utility is Incomplete, Department of Decision Sciences, GWU, February 2025.
  
-3. Wildfire-Driven Distribution System Operation: New Chance-Constrained Model with
-Decision-Dependent Probabilities, BAAICB Conference, March 2025.
+4. Wildfire-Driven Distribution System Operation: New Chance-Constrained Model with Decision-Dependent Probabilities, BAAICB Conference, March 2025.
 
-4. New Chance-Constrained Model with Decision-Dependent Probabilities with Application in
-Power System, Department of Systems Engineering and Operations Research, GMU, April 2025.
+5. New Chance-Constrained Model with Decision-Dependent Probabilities with Application in Power System, Department of Systems Engineering and Operations Research, GMU, April 2025.
 
-5. Application of Chance-Constrained Optimization with Decision-Dependent Probabilities to Power Distribution Systems, SIAM DMV Conference on Applied Mathematics, April 2025.
+6. Application of Chance-Constrained Optimization with Decision-Dependent Probabilities to Power Distribution Systems, SIAM DMV Conference on Applied Mathematics, April 2025.
 
 Awards
 -------
@@ -69,4 +72,4 @@ Contact me
 ------
 Email: snzhang.m@gmail.com, sainan.zhang@gwu.edu
 
-_Updated on April 28, 2025_
+_Updated on July 18, 2025_
