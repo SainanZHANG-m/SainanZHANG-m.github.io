@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Sainan ZHANG is a Postdoctoral Associate at George Washington University. She received her PhD. degree from Dalian University of Technology, China, and a Bachelor's degree from Henan University. Previously she worked as a Research Assistant at the Chinese University of Hong Kong from March 2022 to March 2024, and as a Lecturer at Dongbei University of Finance and Economics from November 2019 to July 2021. Her research interests include Stochastic Programming, Distributionally Robust Optimization, Preference Robust Optimization, and Power System Operations.
+Sainan ZHANG is a Postdoctoral Associate at George Washington University. She received her PhD. degree from Dalian University of Technology, China. Previously she worked as a Research Assistant at the Chinese University of Hong Kong from March 2022 to March 2024, and as a Lecturer at Dongbei University of Finance and Economics from November 2019 to July 2021. Her research interests include Stochastic Programming, Distributionally Robust Optimization, Preference Robust Optimization, and Power System Operations.
 
 Publications
 ------
@@ -35,14 +35,6 @@ Working Papers
 -------
 1. “Power Distribution System Operations under Wildfire Risks: Chance-Constrained Model with Decision-Dependent Probabilities”, with Miguel Lejeune, Payman Dehghanian, 2025.
 
-Reviewer of Journals
--------
-1. Mathematical Programming
-
-2. Journal of Optimization Theory and Applications
-  
-3. INFORMS Journal on Computing
-
 Seminar Presentations
 -------
 1. Utility Preference Robust Optimization with Moment-Type Information Structure, Department of Mathematics, HKBU, February 2024.
@@ -57,6 +49,14 @@ Seminar Presentations
 
 6. Application of Chance-Constrained Optimization with Decision-Dependent Probabilities to Power Distribution Systems, SIAM DMV Conference on Applied Mathematics, April 2025.
 
+Reviewer of Journals
+-------
+1. Mathematical Programming
+
+2. Journal of Optimization Theory and Applications
+  
+3. INFORMS Journal on Computing
+   
 Awards
 -------
 1. Excellent Graduate in Liaoning Province, 2019
@@ -68,7 +68,6 @@ Awards
 4. Excellent Graduate Student in Dalian University of Technology (China), 2017
 
 5. The National Scholarship, 2012.11
-
 
 Contact me
 ------
