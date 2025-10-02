@@ -33,7 +33,7 @@ Submitted Papers
 
 Working Papers
 -------
-1. “Power Distribution System Operations under Wildfire Risks: Chance-Constrained Model with Decision-Dependent Probabilities”, with Miguel Lejeune, Payman Dehghanian, 2025.
+1. “Power Distribution Systems under Wildfire Risks: Chance-Constrained Model with Decision-Dependent Probabilities”, with Miguel Lejeune, Payman Dehghanian, 2025.
 
 Seminar Presentations
 -------
@@ -75,4 +75,4 @@ Contact me
 ------
 Email: snzhang.m@gmail.com, sainan.zhang@gwu.edu
 
-_Updated on July 18, 2025_
+_Updated on Oct 1, 2025_
