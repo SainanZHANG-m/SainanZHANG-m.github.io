@@ -25,7 +25,7 @@ Selected Publications
 
 Submitted Papers
 -------
-1. Sainan Zhang, Shaoyan Guo, Melvyn Sim, Huifu Xu. Modified Polyhedral Method for Elicitation of Shape-Free Utility and Conservatism Reduction in Robust Optimization. _under review_, 2025.
+1. Sainan Zhang, Shaoyan Guo, Melvyn Sim, Huifu Xu. Modified Polyhedral Method for Elicitation of Shape-Free Utility and Conservatism Reduction in Robust Optimization. _Major revision in Management Science_, 2025.
 
 2. Sainan Zhang, Huifu Xu, Hailin Sun. Statistical Robustness of Kernel Learning Estimator with Respect to Data Perturbation. _Revised and Resubmitted to Mathematics of Operations Research_, 2024.
 
