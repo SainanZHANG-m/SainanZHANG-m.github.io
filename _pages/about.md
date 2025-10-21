@@ -27,9 +27,9 @@ Submitted Papers
 -------
 1. Sainan Zhang, Miguel Lejeune, and Payman Dehghanian. Power Distribution Systems under Wildfire Risks: Chance-Constrained Model with Decision-Dependent Probabilities. _Submitted_, 2025. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5508618
    
-2. Sainan Zhang, Shaoyan Guo, Melvyn Sim, Huifu Xu. Modified Polyhedral Method for Elicitation of Shape-Free Utility and Conservatism Reduction in Robust Optimization. _Major revision in Management Science_, 2025.
+2. Sainan Zhang, Shaoyan Guo, Melvyn Sim, Huifu Xu. Modified Polyhedral Method for Elicitation of Shape-Free Utility and Conservatism Reduction in Robust Optimization. _Major revision in Management Science_, 2025. https://arxiv.org/abs/2503.23269
 
-3. Sainan Zhang, Huifu Xu, Hailin Sun. Statistical Robustness of Kernel Learning Estimator with Respect to Data Perturbation. _Revised and Resubmitted to Mathematics of Operations Research_, 2024.
+3. Sainan Zhang, Huifu Xu, Hailin Sun. Statistical Robustness of Kernel Learning Estimator with Respect to Data Perturbation. _Revised and Resubmitted to Mathematics of Operations Research_, 2024. https://arxiv.org/abs/2406.10555
 
 4. Sainan Zhang, Erick Delage, and Huifu Xu. Adaptive Preference Elicitation in Preference Robust CPT-Based Shortfall. _Revised and Resubmitted to Operations Research_, 2023.
 
