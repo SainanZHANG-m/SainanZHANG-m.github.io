@@ -25,7 +25,7 @@ Selected Publications
 
 Submitted Papers
 -------
-1. Sainan Zhang, Miguel Lejeune, and Payman Dehghanian. Power Distribution Systems under Wildfire Risks: Chance-Constrained Model with Decision-Dependent Probabilities. _Resubmitted_, 2025. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5508618
+1. Sainan Zhang, Miguel Lejeune, and Payman Dehghanian. Power Distribution Systems under Wildfire Risks: Chance-Constrained Model with Decision-Dependent Probabilities. _Submitted_, 2025. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5508618
    
 2. Sainan Zhang, Shaoyan Guo, Melvyn Sim, Huifu Xu. Modified Polyhedral Method for Elicitation of Shape-Free Utility and Conservatism Reduction in Robust Optimization. _Major revision in Management Science_, 2025.
 
