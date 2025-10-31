@@ -49,7 +49,7 @@ Seminar Presentations
 
 7. Utility Preference Robust Optimization with Moment-Type Information Structure, Department of Mathematics, HKBU, February 2024.
 
-Teaching Experiences
+Teaching Experience
 -------   
 1. Instructor, Calculus II, Dongbei University of Finance and Economics, Spring 2021, Spring 2020
 2. Instructor, Calculus I, Dongbei University of Finance and Economics, Fall 2020
