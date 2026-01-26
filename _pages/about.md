@@ -56,11 +56,7 @@ Teaching Experience
 
 Reviewer of Journals
 -------
-1. Mathematical Programming
-
-2. Journal of Optimization Theory and Applications
-  
-3. INFORMS Journal on Computing
+Mathematical Programming; Journal of Optimization Theory and Applications; INFORMS Journal on Computing; European Journal of Operational Research
    
 Awards
 -------
@@ -78,4 +74,4 @@ Contact me
 ------
 Email: snzhang.m@gmail.com, sainan.zhang@gwu.edu
 
-_Updated on Oct 1, 2025_
+_Updated on Jan. 25, 2026_
