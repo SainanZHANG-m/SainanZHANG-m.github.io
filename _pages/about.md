@@ -53,7 +53,7 @@ Seminar Presentations
 
 Teaching Experience
 -------   
-1. Guest Lecturer, Stochastic Programming, Department of Decision Sciences, George Washington University, Spring 2026  
+1. Guest Lecturer, DNSC8394: Stochastic Programming, Department of Decision Sciences, George Washington University, Spring 2026  
  Guest lecture on Boolean reformulation methods for chance-constrained programs
 2. Teaching Assistant, SEEM5390: Stochastic Optimization and Risk Management, Chinese University of Hong Kong, Spring 2023
 3. Instructor, Calculus II, Dongbei University of Finance and Economics, Spring 2021, Spring 2020
