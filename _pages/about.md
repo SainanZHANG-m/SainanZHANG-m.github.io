@@ -35,24 +35,30 @@ Submitted Papers
 
 Seminar Presentations
 -------
-1. Adaptive Preference Elicitation in Preference Robust CPT-Based Shortfall, ICCOPT 2025, Los Angeles, July 2025.
+1. Power Distribution Systems under Wildfire Risks: Chance-Constrained Model with Decision-Dependent Probabilities, 2026 INFORMS Optimization Society Conference, Atlanta, March 2026.
+  
+2. Adaptive Preference Elicitation in Preference Robust CPT-Based Shortfall, ICCOPT 2025, Los Angeles, July 2025.
 
-2. Application of Chance-Constrained Optimization with Decision-Dependent Probabilities to Power Distribution Systems, SIAM DMV Conference on Applied Mathematics, April 2025.
+3. Application of Chance-Constrained Optimization with Decision-Dependent Probabilities to Power Distribution Systems, SIAM DMV Conference on Applied Mathematics, April 2025.
    
-3. New Chance-Constrained Model with Decision-Dependent Probabilities with Application in Power System, Department of Systems Engineering and Operations Research, GMU, April 2025.
+4. New Chance-Constrained Model with Decision-Dependent Probabilities with Application in Power System, Department of Systems Engineering and Operations Research, GMU, April 2025.
 
-4. Wildfire-Driven Distribution System Operation: New Chance-Constrained Model with Decision-Dependent Probabilities, BAAICB Conference, March 2025.
+5. Wildfire-Driven Distribution System Operation: New Chance-Constrained Model with Decision-Dependent Probabilities, BAAICB Conference, March 2025.
  
-5. Preference Robust Optimization When Information on Utility is Incomplete, Department of Decision Sciences, GWU, February 2025.
+6. Preference Robust Optimization When Information on Utility is Incomplete, Department of Decision Sciences, GWU, February 2025.
 
-6. Utility Preference Robust Optimization with Moment-Type Information Structure, Department of Mathematics, GWU, November 2024.
+7. Utility Preference Robust Optimization with Moment-Type Information Structure, Department of Mathematics, GWU, November 2024.
 
-7. Utility Preference Robust Optimization with Moment-Type Information Structure, Department of Mathematics, HKBU, February 2024.
+8. Utility Preference Robust Optimization with Moment-Type Information Structure, Department of Mathematics, HKBU, February 2024.
 
 Teaching Experience
 -------   
-1. Instructor, Calculus II, Dongbei University of Finance and Economics, Spring 2021, Spring 2020
-2. Instructor, Calculus I, Dongbei University of Finance and Economics, Fall 2020
+1. Guest Lecturer, Stochastic Programming, Department of Decision Sciences, George Washington University, Spring 2026  
+ Guest lecture on Boolean reformulation methods for chance-constrained programs
+2. Teaching Assistant, SEEM5390: Stochastic Optimization and Risk Management, Chinese University of Hong Kong, Spring 2023
+3. Instructor, Calculus II, Dongbei University of Finance and Economics, Spring 2021, Spring 2020
+4. Instructor, Calculus I, Dongbei University of Finance and Economics, Fall 2020
+   
 
 Reviewer of Journals
 -------
@@ -72,6 +78,6 @@ Awards
 
 Contact me
 ------
-Email: snzhang.m@gmail.com, sainan.zhang@gwu.edu
+Email: snzhang.m@gmail.com
 
-_Updated on Jan. 25, 2026_
+_Updated on March 25, 2026_
