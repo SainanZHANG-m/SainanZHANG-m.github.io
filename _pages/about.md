@@ -35,21 +35,24 @@ Submitted Papers
 
 Seminar Presentations
 -------
-1. Power Distribution Systems under Wildfire Risks: Chance-Constrained Model with Decision-Dependent Probabilities, 2026 INFORMS Optimization Society Conference, Atlanta, March 2026.
+1. Bilevel Optimization with Convex User Equilibrium Model: Reformulation and Application to Infrastructure
+Investment, Conference on Systems Engineering Research, Arlington, April 2026.
+
+2. Power Distribution Systems under Wildfire Risks: Chance-Constrained Model with Decision-Dependent Probabilities, 2026 INFORMS Optimization Society Conference, Atlanta, March 2026.
   
-2. Adaptive Preference Elicitation in Preference Robust CPT-Based Shortfall, ICCOPT 2025, Los Angeles, July 2025.
+3. Adaptive Preference Elicitation in Preference Robust CPT-Based Shortfall, ICCOPT 2025, Los Angeles, July 2025.
 
-3. Application of Chance-Constrained Optimization with Decision-Dependent Probabilities to Power Distribution Systems, SIAM DMV Conference on Applied Mathematics, April 2025.
+4. Application of Chance-Constrained Optimization with Decision-Dependent Probabilities to Power Distribution Systems, SIAM DMV Conference on Applied Mathematics, April 2025.
    
-4. New Chance-Constrained Model with Decision-Dependent Probabilities with Application in Power System, Department of Systems Engineering and Operations Research, GMU, April 2025.
+5. New Chance-Constrained Model with Decision-Dependent Probabilities with Application in Power System, Department of Systems Engineering and Operations Research, GMU, April 2025.
 
-5. Wildfire-Driven Distribution System Operation: New Chance-Constrained Model with Decision-Dependent Probabilities, BAAICB Conference, March 2025.
+6. Wildfire-Driven Distribution System Operation: New Chance-Constrained Model with Decision-Dependent Probabilities, BAAICB Conference, March 2025.
  
-6. Preference Robust Optimization When Information on Utility is Incomplete, Department of Decision Sciences, GWU, February 2025.
+7. Preference Robust Optimization When Information on Utility is Incomplete, Department of Decision Sciences, GWU, February 2025.
 
-7. Utility Preference Robust Optimization with Moment-Type Information Structure, Department of Mathematics, GWU, November 2024.
+8. Utility Preference Robust Optimization with Moment-Type Information Structure, Department of Mathematics, GWU, November 2024.
 
-8. Utility Preference Robust Optimization with Moment-Type Information Structure, Department of Mathematics, HKBU, February 2024.
+9. Utility Preference Robust Optimization with Moment-Type Information Structure, Department of Mathematics, HKBU, February 2024.
 
 Teaching Experience
 -------   
