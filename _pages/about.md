@@ -44,11 +44,11 @@ Investment, Conference on Systems Engineering Research, Arlington, April 2026.
   
 3. Adaptive Preference Elicitation in Preference Robust CPT-Based Shortfall, ICCOPT 2025, Los Angeles, July 2025.
 
-4. Application of Chance-Constrained Optimization with Decision-Dependent Probabilities to Power Distribution Systems, SIAM DMV Conference on Applied Mathematics, April 2025.
+4. Application of Chance-Constrained Optimization with Decision-Dependent Probabilities to Power Distribution Systems, SIAM DMV Conference on Applied Mathematics, Baltimore, April 2025.
    
 5. New Chance-Constrained Model with Decision-Dependent Probabilities with Application in Power System, Department of Systems Engineering and Operations Research, GMU, April 2025.
 
-6. Wildfire-Driven Distribution System Operation: New Chance-Constrained Model with Decision-Dependent Probabilities, BAAICB Conference, March 2025.
+6. Wildfire-Driven Distribution System Operation: New Chance-Constrained Model with Decision-Dependent Probabilities, BAAICB Conference, Washington DC, March 2025.
  
 7. Preference Robust Optimization When Information on Utility is Incomplete, Department of Decision Sciences, GWU, February 2025.
 
