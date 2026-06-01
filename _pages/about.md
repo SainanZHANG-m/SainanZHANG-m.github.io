@@ -67,7 +67,7 @@ Teaching Experience
 
 Reviewer of Journals
 -------
-Mathematical Programming; Journal of Optimization Theory and Applications; INFORMS Journal on Computing; European Journal of Operational Research
+Mathematical Programming; Journal of Optimization Theory and Applications; INFORMS Journal on Computing; European Journal of Operational Research; Computational Optimization and Applications
    
 Awards
 -------
