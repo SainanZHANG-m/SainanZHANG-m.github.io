@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage!
+Welcome to my homepage! Sainan Zhang is a researcher in Operations Research and Optimization.
 
-Sainan ZHANG is a Postdoctoral Associate at George Washington University. She received her PhD. degree from Dalian University of Technology, China. Previously she worked as a Research Assistant at the Chinese University of Hong Kong from March 2022 to March 2024, and as a Lecturer at Dongbei University of Finance and Economics from November 2019 to July 2021. Her research interests include Stochastic Programming, Distributionally Robust Optimization, Preference Robust Optimization, and Power System Operations.
+She received her Ph.D. from Dalian University of Technology, China. Previously, she worked as a Postdoctoral Associate at George Washington University from September 2024 to June 2026, as a Research Assistant at the Chinese University of Hong Kong from March 2022 to March 2024, and as a Lecturer at Dongbei University of Finance and Economics from November 2019 to July 2021.
+
+Her research focuses on decision-making under uncertainty, with particular interests in preference robust optimization, preference elicitation, preference learning, and stochastic optimization. She develops mathematical models, reformulations, and scalable algorithms for optimization problems involving uncertainty, ambiguity, and risk. Her work has applications in revenue management and energy systems.
 
 Selected Publications
 ------
@@ -85,4 +87,4 @@ Contact me
 ------
 Email: snzhang.m@gmail.com
 
-_Updated on March 25, 2026_
+_Updated on June 06, 2026_
