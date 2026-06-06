@@ -26,7 +26,7 @@ author:
   pronouns         : ""  
   bio              : #""
   location         : "U.S"
-  employer         : "GWU"
+  employer         : # "GWU"
   uri              : # URL
   email            : # "snzhang.m@gmail.com" 
 
