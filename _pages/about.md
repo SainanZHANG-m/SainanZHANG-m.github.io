@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! Sainan Zhang is a researcher in Operations Research and Optimization. She is currently a Research Assistant at The Chinese University of Hong Kong, working with Prof. Huifu Xu. She previously held a Research Assistant position at CUHK from March 2022 to March 2024.
+Welcome to my homepage! Sainan Zhang is a researcher in Operations Research and Optimization. She is currently a Research Assistant at The Chinese University of Hong Kong, working with  <a href="https://www.se.cuhk.edu.hk/people/academic-staff/prof-xu-huifu/">Prof. Huifu Xu</a>. She previously held a Research Assistant position at CUHK from March 2022 to March 2024.
 
 She received her Ph.D. from Dalian University of Technology, China. She also worked as a Postdoctoral Associate at George Washington University from September 2024 to June 2026, and as a Lecturer at Dongbei University of Finance and Economics from November 2019 to July 2021.
 
