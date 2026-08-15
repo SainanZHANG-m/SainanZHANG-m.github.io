@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! Sainan Zhang is a researcher in Operations Research and Optimization.
+Welcome to my homepage! Sainan Zhang is a researcher in Operations Research and Optimization. She is currently a Research Assistant at The Chinese University of Hong Kong, working with Prof. Huifu Xu. She previously held a Research Assistant position at CUHK from March 2022 to March 2024.
 
-She received her Ph.D. from Dalian University of Technology, China. Previously, she worked as a Postdoctoral Associate at George Washington University from September 2024 to June 2026, as a Research Assistant at the Chinese University of Hong Kong from March 2022 to March 2024, and as a Lecturer at Dongbei University of Finance and Economics from November 2019 to July 2021.
+She received her Ph.D. from Dalian University of Technology, China. She also worked as a Postdoctoral Associate at George Washington University from September 2024 to June 2026, and as a Lecturer at Dongbei University of Finance and Economics from November 2019 to July 2021.
 
 Her research focuses on decision-making under uncertainty, with particular interests in preference robust optimization, preference elicitation, preference learning, and stochastic optimization. She develops mathematical models, reformulations, and scalable algorithms for optimization problems involving uncertainty, ambiguity, and risk. Her work has applications in revenue management and energy systems.
 
@@ -87,4 +87,4 @@ Contact me
 ------
 Email: snzhang.m@gmail.com
 
-_Updated on June 06, 2026_
+_Updated on Aug 15, 2026_
