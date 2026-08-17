@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my homepage! Sainan Zhang is a researcher in Operations Research and Optimization. She is currently a Research Assistant at The Chinese University of Hong Kong, working with  <a href="https://www.se.cuhk.edu.hk/people/academic-staff/prof-xu-huifu/">Prof. Huifu Xu</a>. She previously held a Research Assistant position at CUHK from March 2022 to March 2024.
 
-She received her Ph.D. from Dalian University of Technology, China. She also worked as a Postdoctoral Associate at George Washington University from September 2024 to June 2026, and as a Lecturer at Dongbei University of Finance and Economics from November 2019 to July 2021.
+She received her Ph.D. from Dalian University of Technology, China, under the supervision of <a href="https://faculty.dlut.edu.cn/1992011039/en/index/767669/list/index.htm">Prof. Liwei Zhang</a>. She also worked as a Postdoctoral Associate at George Washington University from September 2024 to June 2026, and as a Lecturer at Dongbei University of Finance and Economics from November 2019 to July 2021.
 
 Her research focuses on decision-making under uncertainty, with particular interests in preference robust optimization, preference elicitation, preference learning, and stochastic optimization. She develops mathematical models, reformulations, and scalable algorithms for optimization problems involving uncertainty, ambiguity, and risk. Her work has applications in revenue management and energy systems.
 
@@ -73,18 +73,14 @@ Mathematical Programming; Journal of Optimization Theory and Applications; INFOR
    
 Awards
 -------
-1. Excellent Graduate in Liaoning Province, 2019
-   
-2. Excellent Graduate in Dalian University of Technology, 2019
+1. Excellent Graduate in Dalian University of Technology, 2019
 
-3. The National Scholarship, 2018.11
-  
-4. Excellent Graduate Student in Dalian University of Technology, 2017
+2. The National Scholarship, 2018.11
 
-5. The National Scholarship, 2012.11
+3. The National Scholarship, 2012.11
 
 Contact me
 ------
 Email: snzhang.m@gmail.com
 
-_Updated on Aug 15, 2026_
+_Updated on Aug 17, 2026_
