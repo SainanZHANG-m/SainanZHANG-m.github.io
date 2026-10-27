@@ -15,17 +15,19 @@ Her research focuses on decision-making under uncertainty, with particular inter
 
 Selected Publications
 ------
-1. Jian Hu, Dali Zhang, Huifu Xu and Sainan Zhang, "<a href="https://link.springer.com/article/10.1007/s10107-024-02114-y">Distributional utility preference robust optimization models in multi-attribute decision making</a>." __Mathematical Programming__, 212: 519–565, 2025.
+1. Sainan Zhang, Erick Delage, and Huifu Xu. Adaptive Preference Elicitation in Preference Robust CPT-Based Shortfall. Accepted in __Operations Research__, 2026.
+  
+2. Jian Hu, Dali Zhang, Huifu Xu and Sainan Zhang, "<a href="https://link.springer.com/article/10.1007/s10107-024-02114-y">Distributional utility preference robust optimization models in multi-attribute decision making</a>." __Mathematical Programming__, 212: 519–565, 2025.
 
-2. Qiong Wu, Wei Wang, Sainan Zhang, and Huifu Xu. "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0377221724008518">Bi-Attribute Utility Preference Robust Optimization: A Continuous Piecewise Linear Approximation Approach</a>." __European Journal of Operational Research__, 323(1):170-191, 2025.
+3. Qiong Wu, Wei Wang, Sainan Zhang, and Huifu Xu. "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0377221724008518">Bi-Attribute Utility Preference Robust Optimization: A Continuous Piecewise Linear Approximation Approach</a>." __European Journal of Operational Research__, 323(1):170-191, 2025.
 
-3. Shaoyan Guo, Huifu Xu, Sainan Zhang, "<a href="https://pubsonline.informs.org/doi/10.1287/opre.2023.2464">Utility Preference Robust Optimization with Moment-Type Information Structure</a>." __Operations Research__, 72(5):2241-2261, 2024.
+4. Shaoyan Guo, Huifu Xu, Sainan Zhang, "<a href="https://pubsonline.informs.org/doi/10.1287/opre.2023.2464">Utility Preference Robust Optimization with Moment-Type Information Structure</a>." __Operations Research__, 72(5):2241-2261, 2024.
 
-4. Sainan Zhang, Shaoyan Guo, Liwei Zhang, Hongwei Zhang. "<a href="https://www.sciencedirect.com/science/article/pii/S0022247X20307265">On Distributionally Robust Optimization Problems with k-th Order Stochastic Dominance Constraints Induced by Full Random Quadratic Recourse</a>." __Journal of Mathematical Analysis and Applications__, 493(2), 124564, 2021.
+5. Sainan Zhang, Shaoyan Guo, Liwei Zhang, Hongwei Zhang. "<a href="https://www.sciencedirect.com/science/article/pii/S0022247X20307265">On Distributionally Robust Optimization Problems with k-th Order Stochastic Dominance Constraints Induced by Full Random Quadratic Recourse</a>." __Journal of Mathematical Analysis and Applications__, 493(2), 124564, 2021.
 
-5. Sainan Zhang, Shaoyan Guo, Liwei Zhang, Hongwei Zhang. "<a href="https://www.sciencedirect.com/science/article/pii/S0022247X19310807">Quantitative Stability of Two Stage Distributionally Robust Risk Optimization Problem with Full Random Linear Semi-Definite Recourse</a>." __Journal of Mathematical Analysis and Applications__, 485(2), 123812, 2020.
+6. Sainan Zhang, Shaoyan Guo, Liwei Zhang, Hongwei Zhang. "<a href="https://www.sciencedirect.com/science/article/pii/S0022247X19310807">Quantitative Stability of Two Stage Distributionally Robust Risk Optimization Problem with Full Random Linear Semi-Definite Recourse</a>." __Journal of Mathematical Analysis and Applications__, 485(2), 123812, 2020.
 
-6. Sainan Zhang, Shaoyan Guo, Hongwei Zhang, Liwei Zhang. "<a href="https://www.tandfonline.com/doi/10.1080/02331934.2019.1602833">Quantitative Stability of Full Random Two Stage Problems with Quadratic Recourse</a>." __Optimization__, 68(8):1551-1576, 2019.
+7. Sainan Zhang, Shaoyan Guo, Hongwei Zhang, Liwei Zhang. "<a href="https://www.tandfonline.com/doi/10.1080/02331934.2019.1602833">Quantitative Stability of Full Random Two Stage Problems with Quadratic Recourse</a>." __Optimization__, 68(8):1551-1576, 2019.
 
 Submitted Papers
 -------
@@ -34,8 +36,6 @@ Submitted Papers
 2. Sainan Zhang, Shaoyan Guo, Melvyn Sim, Huifu Xu. "<a href="https://arxiv.org/abs/2503.23269">Modified Polyhedral Method for Elicitation of Shape-Free Utility and Conservatism Reduction in Robust Optimization</a>." _Revised and Resubmitted to Management Science_, 2025. 
 
 3. Sainan Zhang, Huifu Xu, Hailin Sun. "<a href="https://arxiv.org/abs/2406.10555">Statistical Robustness of Kernel Learning Estimator with Respect to Data Perturbation</a>." _Revised and Resubmitted to Mathematics of Operations Research_, 2024. 
-
-4. Sainan Zhang, Erick Delage, and Huifu Xu. Adaptive Preference Elicitation in Preference Robust CPT-Based Shortfall. _Revised and Resubmitted to Operations Research_, 2023.
 
 Seminar Presentations
 -------
@@ -83,4 +83,4 @@ Contact me
 ------
 Email: snzhang.m@gmail.com
 
-_Updated on Sep 23, 2026_
+_Updated on Oct 27, 2026_
