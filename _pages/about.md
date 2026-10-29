@@ -21,7 +21,7 @@ Selected Publications
 
 3. Qiong Wu, Wei Wang, Sainan Zhang, and Huifu Xu. "<a href="https://www.sciencedirect.com/science/article/abs/pii/S0377221724008518">Bi-Attribute Utility Preference Robust Optimization: A Continuous Piecewise Linear Approximation Approach</a>." __European Journal of Operational Research__, 323(1):170-191, 2025.
 
-4. Shaoyan Guo, Huifu Xu, Sainan Zhang, "<a href="https://pubsonline.informs.org/doi/10.1287/opre.2023.2464">Utility Preference Robust Optimization with Moment-Type Information Structure</a>." __Operations Research__, 72(5):2241-2261, 2024.
+4. Shaoyan Guo, Huifu Xu, Sainan Zhang (alphabetical), "<a href="https://pubsonline.informs.org/doi/10.1287/opre.2023.2464">Utility Preference Robust Optimization with Moment-Type Information Structure</a>." __Operations Research__, 72(5):2241-2261, 2024.
 
 5. Sainan Zhang, Shaoyan Guo, Liwei Zhang, Hongwei Zhang. "<a href="https://www.sciencedirect.com/science/article/pii/S0022247X20307265">On Distributionally Robust Optimization Problems with k-th Order Stochastic Dominance Constraints Induced by Full Random Quadratic Recourse</a>." __Journal of Mathematical Analysis and Applications__, 493(2), 124564, 2021.
 
